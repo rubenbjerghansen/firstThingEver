@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>438C01B9-8AA1-45C0-87AE-801C61949577</string>
+	<key>IDESourceControlProjectName</key>
+	<string>firstThingEver</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>559458B8289BC68BEB0FDC555EF637DA81E686B6</key>
+		<string>https://github.com/rubenbjerghansen/firstThingEver.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>firstThingEver.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>559458B8289BC68BEB0FDC555EF637DA81E686B6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rubenbjerghansen/firstThingEver.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>559458B8289BC68BEB0FDC555EF637DA81E686B6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>559458B8289BC68BEB0FDC555EF637DA81E686B6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>firstThingEver</string>
+		</dict>
+	</array>
+</dict>
+</plist>
